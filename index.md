@@ -1,9 +1,7 @@
 ---
 ---
 
-# YNU-NLPDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
-
-
+# YNU-NLP's Website
 
 {% include section.html %}
 
@@ -11,7 +9,7 @@
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+YNU-NLP laboratory focuses on research in the field of multimodal dialogue systems and multimodal expression. We are particularly interested in developing natural and intuitive ways for humans to interact with AI systems using multiple modalities, such as speech, text, and gestures. Our research aims to advance the state of the art in this area and to create practical applications that can improve human-computer communication and collaboration.
 
 {%
   include button.html
@@ -25,57 +23,111 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {% endcapture %}
 
 {%
+
   include feature.html
+
   image="images/photo.jpg"
+
   link="research"
+
   title="Our Research"
+
   text=text
+
 %}
 
-{% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+[//]: # ({% capture text %})
 
-{%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
+[//]: # ()
+[//]: # ()
+[//]: # (Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.)
 
-{% endcapture %}
+[//]: # ()
+[//]: # ()
+[//]: # ({%)
 
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
-  text=text
-%}
+[//]: # ()
+[//]: # (  include button.html)
 
-{% capture text %}
+[//]: # ()
+[//]: # (  link="projects")
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+[//]: # ()
+[//]: # (  text="Browse our projects")
 
-{%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
+[//]: # ()
+[//]: # (  icon="fa-solid fa-arrow-right")
 
-{% endcapture %}
+[//]: # ()
+[//]: # (  flip=true)
 
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%}
+[//]: # ()
+[//]: # (  style="bare")
+
+[//]: # ()
+[//]: # (%})
+
+[//]: # ()
+[//]: # ()
+[//]: # ({% endcapture %})
+
+[//]: # ()
+[//]: # ({%)
+
+[//]: # (  include feature.html)
+
+[//]: # (  image="images/photo.jpg")
+
+[//]: # (  link="projects")
+
+[//]: # (  title="Our Projects")
+
+[//]: # (  flip=true)
+
+[//]: # (  style="bare")
+
+[//]: # (  text=text)
+
+[//]: # (%})
+
+[//]: # ()
+[//]: # ({% capture text %})
+
+[//]: # ()
+[//]: # (Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.)
+
+[//]: # ()
+[//]: # ({%)
+
+[//]: # (  include button.html)
+
+[//]: # (  link="team")
+
+[//]: # (  text="Meet our team")
+
+[//]: # (  icon="fa-solid fa-arrow-right")
+
+[//]: # (  flip=true)
+
+[//]: # (  style="bare")
+
+[//]: # (%})
+
+[//]: # ()
+[//]: # ({% endcapture %})
+
+[//]: # ()
+[//]: # ({%)
+
+[//]: # (  include feature.html)
+
+[//]: # (  image="images/photo.jpg")
+
+[//]: # (  link="team")
+
+[//]: # (  title="Our Team")
+
+[//]: # (  text=text)
+
+[//]: # (%})
