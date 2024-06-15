@@ -1,6 +1,5 @@
 
-# YNU-NLPDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# YNU-NLP lab's Website
 
 Visit **[ynu-nlp.github.io](https://ynu-nlp.github.io)** 🚀
 
-_Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
