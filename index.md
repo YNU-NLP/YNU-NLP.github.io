@@ -9,7 +9,7 @@
 
 {% capture text %}
 
-YNU-NLP laboratory focuses on research in the field of multimodal dialogue systems and multimodal expression. We are particularly interested in developing natural and intuitive ways for humans to interact with AI systems using multiple modalities, such as speech, text, and gestures. Our research aims to advance the state of the art in this area and to create practical applications that can improve human-computer communication and collaboration.
+YNU-NLP Lab focuses on the exciting field of Natural Language Processing (NLP). We study a variety of topics including sentiment analysis, multimodal systems, machine learning, graph neural networks, and dialogue systems. Our goal is to improve the way computers understand and interact with human language. By working together, our team strives to create smarter and more user-friendly technologies.
 
 {%
   include button.html
