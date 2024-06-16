@@ -1,6 +1,6 @@
 ---
 name: Jin Wang
-image: images/jin wang.jpg
+image: images/jin_wang.jpg
 role: pi
 affiliation: Yunnan University
 links:
