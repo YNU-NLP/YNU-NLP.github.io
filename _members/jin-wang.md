@@ -2,6 +2,7 @@
 name: Jin Wang
 image: images/jin_wang.jpg
 role: pi
+description: Professor
 affiliation: Yunnan University
 links:
   home-page: http://www.ise.ynu.edu.cn/teacher/973
