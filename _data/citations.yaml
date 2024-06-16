@@ -1,205 +1,444 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1016/j.knosys.2021.107663
+  title: Contextual sentiment embeddings via bi-directional GRU language model
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Jin Wang
+  - You Zhang
+  - Liang-Chih Yu
+  - Xuejie Zhang
+  publisher: Knowledge-Based Systems
+  date: '2022-01-01'
+  link: https://doi.org/gs6z55
+  orcid: 0000-0002-8298-4378
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1371/journal.pcbi.1010144
+  title: Explainable detection of adverse drug reaction with imbalanced data distribution
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
-  authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
-  authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
-  authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
-  authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
+  - Jin Wang
+  - Liang-Chih Yu
+  - Xuejie Zhang
   publisher: PLOS Computational Biology
-  date: '2019-06-24'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
+  date: '2022-06-15'
+  link: https://doi.org/gtznvp
+  orcid: 0000-0002-8298-4378
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
+- id: doi:10.1016/j.knosys.2021.107872
+  title: Hierarchical BERT with an adaptive fine-tuning strategy for document classification
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
+  - Jun Kong
+  - Jin Wang
+  - Xuejie Zhang
+  publisher: Knowledge-Based Systems
+  date: '2022-02-01'
+  link: https://doi.org/gtznvq
+  orcid: 0000-0002-8298-4378
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ipm.2022.103048
+  title: Hierarchical template transformer for fine-grained sentiment controllable
+    generation
+  authors:
+  - Li Yuan
+  - Jin Wang
+  - Liang-Chih Yu
+  - Xuejie Zhang
+  publisher: Information Processing &amp; Management
+  date: '2022-09-01'
+  link: https://doi.org/gtznvr
+  orcid: 0000-0002-8298-4378
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s10489-022-03584-3
+  title: Interactive capsule network for implicit sentiment analysis
+  authors:
+  - Yanjun Qian
+  - Jin Wang
+  - Dawei Li
+  - Xuejie Zhang
+  publisher: Applied Intelligence
+  date: '2022-05-20'
+  link: https://doi.org/gtznvs
+  orcid: 0000-0002-8298-4378
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ins.2021.08.052
+  title: A multi-dimensional relation model for dimensional sentiment analysis
+  authors:
+  - Housheng Xie
+  - Wei Lin
+  - Shuying Lin
+  - Jin Wang
+  - Liang-Chih Yu
+  publisher: Information Sciences
+  date: '2021-11-01'
+  link: https://doi.org/gtznvt
+  orcid: 0000-0002-8298-4378
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-030-88480-2_18
+  title: Accelerating Pretrained Language Model Inference Using Weighted Ensemble
+    Self-distillation
+  authors:
+  - Jun Kong
+  - Jin Wang
+  - Xuejie Zhang
+  publisher: Natural Language Processing and Chinese Computing
+  date: '2021-01-01'
+  link: https://doi.org/gtznvv
+  orcid: 0000-0002-8298-4378
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neucom.2021.07.072
+  title: 'Conciseness is better: Recurrent attention LSTM model for document-level
+    sentiment analysis'
+  authors:
+  - You Zhang
+  - Jin Wang
+  - Xuejie Zhang
+  publisher: Neurocomputing
+  date: '2021-10-01'
+  link: https://doi.org/gtznvw
+  orcid: 0000-0002-8298-4378
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/IALP54817.2021.9675156
+  title: Joint Model of Triple Relation Extraction with Label Embeddings
+  authors:
+  - Mengjiao Xie
+  - Jin Wang
+  - Xuejie Zhang
+  publisher: 2021 International Conference on Asian Language Processing (IALP)
+  date: '2021-12-11'
+  link: https://doi.org/gtznvx
+  orcid: 0000-0002-8298-4378
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ins.2021.05.044
+  title: Learning sentiment sentence representation with multiview attention model
+  authors:
+  - You Zhang
+  - Jin Wang
+  - Xuejie Zhang
+  publisher: Information Sciences
+  date: '2021-09-01'
+  link: https://doi.org/gtznvz
+  orcid: 0000-0002-8298-4378
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/IALP54817.2021.9675272
+  title: Mirror Distillation Model with Focal Loss for Chinese Machine Reading Comprehension
+  authors:
+  - Fulai Nan
+  - Jin Wang
+  - Xuejie Zhang
+  publisher: 2021 International Conference on Asian Language Processing (IALP)
+  date: '2021-12-11'
+  link: https://doi.org/gtznv2
+  orcid: 0000-0002-8298-4378
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.knosys.2021.107135
+  title: Personalized sentiment classification of customer reviews via an interactive
+    attributes attention model
+  authors:
+  - You Zhang
+  - Jin Wang
+  - Xuejie Zhang
+  publisher: Knowledge-Based Systems
+  date: '2021-08-01'
+  link: https://doi.org/gtznv3
+  orcid: 0000-0002-8298-4378
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-030-88483-3_9
+  title: Variational Autoencoder with Interactive Attention for Affective Text Generation
+  authors:
+  - Ruijun Chen
+  - Jin Wang
+  - Xuejie Zhang
+  publisher: Natural Language Processing and Chinese Computing
+  date: '2021-01-01'
+  link: https://doi.org/gtznv4
+  orcid: 0000-0002-8298-4378
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2020.3035347
+  title: A Novel Deep Learning Scheme for Motor Imagery EEG Decoding Based on Spatial
+    Representation Fusion
+  authors:
+  - Jun Yang
+  - Zhengmin Ma
+  - Jin Wang
+  - Yunfa Fu
+  publisher: IEEE Access
+  date: '2020-01-01'
+  link: https://doi.org/gqxwsw
+  orcid: 0000-0002-8298-4378
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ins.2020.06.044
+  title: Adversarial learning of sentiment word representations for sentiment analysis
+  authors:
+  - Bo Peng
+  - Jin Wang
+  - Xuejie Zhang
+  publisher: Information Sciences
+  date: '2020-12-01'
+  link: https://doi.org/gjt7mg
+  orcid: 0000-0002-8298-4378
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TAFFC.2018.2807819
+  title: Pipelined Neural Networks for Phrase-Level Sentiment Intensity Prediction
+  authors:
+  - Liang-Chih Yu
+  - Jin Wang
+  - K. Robert Lai
+  - Xuejie Zhang
+  publisher: IEEE Transactions on Affective Computing
+  date: '2020-07-01'
+  link: https://doi.org/ghjxnp
+  orcid: 0000-0002-8298-4378
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TASLP.2019.2959251
+  title: Tree-Structured Regional CNN-LSTM Model for Dimensional Sentiment Analysis
+  authors:
+  - Jin Wang
+  - Liang-Chih Yu
+  - K. Robert Lai
+  - Xuejie Zhang
+  publisher: IEEE/ACM Transactions on Audio, Speech, and Language Processing
+  date: '2020-01-01'
+  link: https://doi.org/ghjxpj
+  orcid: 0000-0002-8298-4378
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICEIEC49280.2020.9152257
+  title: Using a Pre-Trained Language Model for Medical Named Entity Extraction in
+    Chinese Clinic Text
+  authors:
+  - Mengyuan Zhang
+  - Jin Wang
+  - Xuejie Zhang
+  publisher: 2020 IEEE 10th International Conference on Electronics Information and
+    Emergency Communication (ICEIEC)
+  date: '2020-07-01'
+  link: https://doi.org/gtznv5
+  orcid: 0000-0002-8298-4378
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/IALP48816.2019.9037667
+  title: 'CIEA: A Corpus for Chinese Implicit Emotion Analysis'
+  authors:
+  - Dawei Li
+  - Jin Wang
+  - Xuejie Zhang
+  publisher: 2019 International Conference on Asian Language Processing (IALP)
+  date: '2019-11-01'
+  link: https://doi.org/gtznv6
+  orcid: 0000-0002-8298-4378
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2018.2882443
+  title: An Attentive Neural Sequence Labeling Model for Adverse Drug Reactions Mentions
+    Extraction
+  authors:
+  - Peng Ding
+  - Xiaobing Zhou
+  - Xuejie Zhang
+  - Jin Wang
+  - Zhenfeng Lei
+  publisher: IEEE Access
+  date: '2018-01-01'
+  link: https://doi.org/gtznv7
+  orcid: 0000-0002-8298-4378
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2018.2877452
+  title: Deep Fusion Feature Learning Network for MI-EEG Classification
+  authors:
+  - Jun Yang
+  - Shaowen Yao
+  - Jin Wang
+  publisher: IEEE Access
+  date: '2018-01-01'
+  link: https://doi.org/gjqbsr
+  orcid: 0000-0002-8298-4378
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TASLP.2017.2788182
+  title: Refining Word Embeddings Using Intensity Scores for Sentiment Analysis
+  authors:
+  - Liang-Chih Yu
+  - Jin Wang
+  - K. Robert Lai
+  - Xuejie Zhang
+  publisher: IEEE/ACM Transactions on Audio, Speech, and Language Processing
+  date: '2018-03-01'
+  link: https://doi.org/gczsx5
+  orcid: 0000-0002-8298-4378
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neucom.2018.09.049
+  title: Using a stacked residual LSTM model for sentiment intensity prediction
+  authors:
+  - Jin Wang
+  - Bo Peng
+  - Xuejie Zhang
+  publisher: Neurocomputing
+  date: '2018-12-01'
+  link: https://doi.org/gpfggf
+  orcid: 0000-0002-8298-4378
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.18653/v1/d17-1056
+  title: Refining Word Embeddings for Sentiment Analysis
+  authors:
+  - Liang-Chih Yu
+  - Jin Wang
+  - K. Robert Lai
+  - Xuejie Zhang
+  publisher: "Proceedings of the 2017 Conference on Empirical Methods in Natural\n\
+    \          Language Processing"
+  date: '2017-01-01'
+  link: https://doi.org/gtznvm
+  orcid: 0000-0002-8298-4378
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.18653/v1/n16-1066
+  title: Building Chinese Affective Resources in Valence-Arousal Dimensions
+  authors:
+  - Liang-Chih Yu
+  - Lung-Hao Lee
+  - Shuai Hao
+  - Jin Wang
+  - Yunchao He
+  - Jun Hu
+  - K. Robert Lai
+  - Xuejie Zhang
+  publisher: 'Proceedings of the 2016 Conference of the North American Chapter of
+    the Association for Computational Linguistics: Human Language Technologies'
+  date: '2016-01-01'
+  link: https://doi.org/gq6xjg
+  orcid: 0000-0002-8298-4378
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TASLP.2016.2594287
+  title: Community-Based Weighted Graph Model for Valence-Arousal Prediction of Affective
+    Words
+  authors:
+  - Jin Wang
+  - Liang-Chih Yu
+  - K. Robert Lai
+  - Xuejie Zhang
+  publisher: IEEE/ACM Transactions on Audio, Speech, and Language Processing
+  date: '2016-11-01'
+  link: https://doi.org/f8z4vs
+  orcid: 0000-0002-8298-4378
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.18653/v1/p16-2037
+  title: Dimensional Sentiment Analysis Using a Regional CNN-LSTM Model
+  authors:
+  - Jin Wang
+  - Liang-Chih Yu
+  - K. Robert Lai
+  - Xuejie Zhang
+  publisher: 'Proceedings of the 54th Annual Meeting of the Association for Computational
+    Linguistics (Volume 2: Short Papers)'
+  date: '2016-01-01'
+  link: https://doi.org/gk49xx
+  orcid: 0000-0002-8298-4378
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neucom.2016.02.057
+  title: Locally weighted linear regression for cross-lingual valence-arousal prediction
+    of affective words
+  authors:
+  - Jin Wang
+  - Liang-Chih Yu
+  - K. Robert Lai
+  - Xuejie Zhang
+  publisher: Neurocomputing
+  date: '2016-06-01'
+  link: https://doi.org/f8pfh8
+  orcid: 0000-0002-8298-4378
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACII.2015.7344604
+  title: A locally weighted method to improve linear regression for lexical-based
+    valence-arousal prediction
+  authors:
+  - Jin Wang
+  - Liang-Chih Yu
+  - K. Robert Lai
+  - Xue-jie Zhang
+  publisher: 2015 International Conference on Affective Computing and Intelligent
+    Interaction (ACII)
+  date: '2015-09-01'
+  link: https://doi.org/gtznv8
+  orcid: 0000-0002-8298-4378
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICSS.2014.21
+  title: Applying MapReduce Framework to Peer-to-Peer Overlay Network
+  authors:
+  - Pei Xiao
+  - Xiaolu Zhang
+  - Jin Wang
+  - Jixian Zhang
+  - Qiang Han
+  - Xuejie Zhang
+  publisher: 2014 International Conference on Service Sciences
+  date: '2014-05-01'
+  link: https://doi.org/gtznv9
+  orcid: 0000-0002-8298-4378
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3115/v1/p15-2129
+  title: Predicting Valence-Arousal Ratings of Words Using a Weighted Graph Method
+  authors:
+  - Liang-Chih Yu
+  - Jin Wang
+  - K. Robert Lai
+  - Xue-jie Zhang
+  publisher: 'Proceedings of the 53rd Annual Meeting of the Association for Computational
+    Linguistics and the 7th International Joint Conference on Natural Language Processing
+    (Volume 2: Short Papers)'
+  date: '2015-01-01'
+  link: https://doi.org/gtznwb
+  orcid: 0000-0002-8298-4378
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICACC.2010.5487264
+  title: A moving objects detection algorithm using iterative division and Gaussian
+    mixture model
+  authors:
+  - ' Fei He'
+  - ' Jin Wang'
+  - ' Xuejie Zhang'
+  - ' Yun Gao'
+  publisher: 2010 2nd International Conference on Advanced Computer Control
+  date: '2010-01-01'
+  link: https://doi.org/c2vscb
+  orcid: 0000-0002-8298-4378
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICACC.2010.5487263
+  title: Tracking objects through occlusions using improved Kalman filter
+  authors:
+  - ' Jin Wang'
+  - ' Fei He'
+  - ' Xuejie Zhang'
+  - ' Yun Gao'
+  publisher: 2010 2nd International Conference on Advanced Computer Control
+  date: '2010-01-01'
+  link: https://doi.org/c6w7bn
+  orcid: 0000-0002-8298-4378
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.18653/v1/P16-2037
