@@ -7,14 +7,13 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+YNU-NLP Lab focuses on the exciting field of Natural Language Processing (NLP). We study a variety of topics including sentiment analysis, multimodal systems, machine learning, graph neural networks, and dialogue systems. Our goal is to improve the way computers understand and interact with human language. By working together, our team strives to create smarter and more user-friendly technologies.
 
 {% include section.html %}
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Dimensional sentiment analysis using a regional CNN-LSTM model" style="rich" %}
 
 {% include section.html %}
 
