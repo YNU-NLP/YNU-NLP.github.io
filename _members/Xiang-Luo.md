@@ -1,7 +1,7 @@
 ---
 name: Xiang Luo
 image: images/hacker.png
-role: phd
+role: undergrad
 description: Post-Graduated Student
 affiliation: Yunnan University
 links:
