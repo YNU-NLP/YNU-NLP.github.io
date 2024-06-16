@@ -11,12 +11,6 @@ YNU-NLP Lab focuses on the exciting field of Natural Language Processing (NLP). 
 
 {% include section.html %}
 
-## Highlighted
-
-{% include citation.html lookup="Dimensional sentiment analysis using a regional CNN-LSTM model" style="rich" %}
-
-{% include section.html %}
-
 ## All
 
 {% include search-box.html %}
