@@ -8,8 +8,7 @@ links:
   home-page: https://github.com/suntea233/
   email: luoxiang@mail.ynu.edu.cn
 ---
----
-### 👋 Profile
+<div>### 👋 Profile
 *I'm Luo Xiang, a post-graduate student in school of information & engineering, Yunnan University.*
 
 🔭 I’m currently working on Natural Language Processing, especially Task-Oriented Dialogue and Multimodal.
@@ -35,5 +34,5 @@ links:
 
 📅 **Expected Graduation:** 2025
 
-🏛️ *[Yunnan University](https://www.ynu.edu.cn/), Kunming, China*
----
+🏛️ *[Yunnan University](https://www.ynu.edu.cn/), Kunming, China*</div>
+
