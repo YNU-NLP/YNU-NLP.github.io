@@ -1,7 +1,7 @@
 ---
 name: Jin Wang
 image: images/jin_wang.jpg
-role: pi
+role: phd
 description: Professor
 affiliation: Yunnan University
 links:
