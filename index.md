@@ -26,7 +26,7 @@ YNU-NLP Lab focuses on the exciting field of Natural Language Processing (NLP). 
 
   include feature.html
 
-  image="images/photo.jpg"
+  image="images/news.png"
 
   link="research"
 
