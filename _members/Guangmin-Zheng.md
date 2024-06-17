@@ -15,22 +15,6 @@ links:
             <li>🔭 I’m currently working on Natural Language Processing, especially Sentiment Analysis and Multimodal.</li>
             <li>📫 How to reach me: <a href="mailto:gmzheng@mail.ynu.edu.cn">gmzheng@mail.ynu.edu.cn</a></li>
         </ul>
-  <style>
-    table {
-        border-collapse: collapse;
-        width: 100%;
-    }
-    td, th {
-        padding: 8px;
-        text-align: left;
-    }
-    th {
-        background-color: #f2f2f2;
-    }
-    td {
-        border-top: 1px solid #dddddd;
-    }
-</style>
 
 <table>
     <tr>
