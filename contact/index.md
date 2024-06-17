@@ -11,7 +11,7 @@ nav:
 {%
   include button.html
   type="email"
-  text="jinwang@ynu.edu.cn"
-  link="jinwang@ynu.edu.cn"
+  text="wangjin@ynu.edu.cn"
+  link="wangjin@ynu.edu.cn"
 %}
 
