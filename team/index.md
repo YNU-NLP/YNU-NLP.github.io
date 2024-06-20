@@ -5,7 +5,7 @@ nav:
   tooltip: About our team
 ---
 
-# {% include icon.html icon="/images/ancestors.svg" %}Team
+# {% include icon.html icon="fa-solid fa-users" %}Team
 
 
 
